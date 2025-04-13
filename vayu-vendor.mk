@@ -451,7 +451,7 @@ PRODUCT_PACKAGES += \
     libswvqe \
     vendor.dolby.hardware.dms@2.0 \
     vendor.qti.hardware.dsp@1.0 \
-    vendor.qti.hardware.fm@1.0 \
+    vendor.qti.hardware.fm@1.0_vendor \
     vendor.qti.hardware.vpp@1.1 \
     vendor.qti.hardware.vpp@1.2 \
     vendor.qti.hardware.vpp@1.3 \
@@ -567,7 +567,7 @@ PRODUCT_PACKAGES += \
     com.xiaomi.node.mifragment \
     com.xiaomi.node.misegment \
     libdepthmapwrapper \
-    com.qualcomm.qti.dpm.api@1.0 \
+    com.qualcomm.qti.dpm.api@1.0_vendor \
     com.qualcomm.qti.imscmservice@1.0 \
     com.qualcomm.qti.imscmservice@2.0 \
     com.qualcomm.qti.imscmservice@2.1 \
@@ -714,7 +714,7 @@ PRODUCT_PACKAGES += \
     libmibokeh_845_video \
     libmibokeh_855 \
     libminksocket \
-    libmmosal \
+    libmmosal_vendor \
     libmpbase \
     libnetmgr \
     libnetmgr_common \
@@ -817,7 +817,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.data.factory@2.0 \
     vendor.qti.data.factory@2.1 \
     vendor.qti.data.slm@1.0 \
-    vendor.qti.diaghal@1.0 \
+    vendor.qti.diaghal@1.0_vendor \
     vendor.qti.esepowermanager@1.0 \
     vendor.qti.esepowermanager@1.1 \
     vendor.qti.gnss@1.0 \
@@ -885,7 +885,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.ims.rcsconfig@2.0 \
     vendor.qti.ims.rcsconfig@2.1 \
     vendor.qti.imsrtpservice@3.0-service-Impl \
-    vendor.qti.imsrtpservice@3.0 \
+    vendor.qti.imsrtpservice@3.0_vendor \
     vendor.qti.latency@2.0 \
     vendor.xiaomi.hardware.fx.tunnel@1.0 \
     capi_v2_aptX_CLHDAD_Encoder \
