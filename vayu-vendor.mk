@@ -417,6 +417,7 @@ PRODUCT_PACKAGES += \
     libminkdescriptor \
     libprotobuf-cpp-full-3.9.1 \
     libprotobuf-cpp-lite-3.9.1 \
+    libqcbor \
     libqcci_legacy \
     libqcmaputils \
     libqcodec2 \
@@ -664,6 +665,7 @@ PRODUCT_PACKAGES += \
     libcom.qti.chinodeutils \
     libconfigdb \
     libcpion \
+    libcrypto-v34 \
     libcvface_api \
     libdataitems \
     libdisp-aba \
@@ -675,6 +677,8 @@ PRODUCT_PACKAGES += \
     libdualcam_optical_zoom_control \
     libdualcam_video_optical_zoom \
     libft2vendor \
+    libgarden \
+    libgarden_haltests_e2e \
     libgdtap \
     libgf_ca \
     libgf_hal \
@@ -728,7 +732,6 @@ PRODUCT_PACKAGES += \
     libpdmapper \
     libpdnotifier \
     libperipheral_client \
-    libqcbor \
     libqcc_file_agent \
     libqcrilFramework \
     libqcrildatactl \
@@ -790,6 +793,7 @@ PRODUCT_PACKAGES += \
     libvideofilter_only \
     libvidhance \
     libwms \
+    libwpa_client \
     libwqe \
     libwvhidl \
     libxml \
