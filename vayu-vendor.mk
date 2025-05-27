@@ -439,21 +439,28 @@ PRODUCT_PACKAGES += \
     libaudioconfigstore \
     libaudioparsers \
     libaudioroute_ext \
+    libbatterylistener \
     libbluetooth_audio_session_qti \
+    libcomprcapture \
     libdrc \
     libdsd2pcm \
+    libexthwplugin \
     libfastcrc \
     libgcs-calwrapper \
     libgcs-ipc \
     libgcs-osal \
     libgcs \
+    libhdmiedid \
     libhdmipassthru \
+    libhfp \
     liblistensoundmodel2 \
     libmulawdec \
     libpn553_fw \
     libqtigef \
     libresampler \
     libsmwrapper \
+    libsndmonitor \
+    libspkrprot \
     libsurround_3mic_proc \
     libasphere \
     libmisoundfx \
