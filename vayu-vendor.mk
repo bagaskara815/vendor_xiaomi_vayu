@@ -455,7 +455,6 @@ PRODUCT_PACKAGES += \
     libhfp \
     liblistensoundmodel2 \
     libmulawdec \
-    libpn553_fw \
     libqtigef \
     libresampler \
     libsmwrapper \
@@ -707,6 +706,7 @@ PRODUCT_PACKAGES += \
     libpdmapper \
     libpdnotifier \
     libperipheral_client \
+    libpn553_fw \
     libqcbor \
     libqcc_file_agent \
     libqcci_legacy \
