@@ -393,8 +393,6 @@ PRODUCT_PACKAGES += \
     libllvm-glnext \
     libllvm-qcom \
     libmdsprpc \
-    libprotobuf-cpp-full-3.9.1 \
-    libprotobuf-cpp-lite-3.9.1 \
     libqcodec2 \
     libscveCommon \
     libscveCommon_stub \
