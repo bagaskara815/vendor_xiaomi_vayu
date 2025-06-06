@@ -400,7 +400,6 @@ PRODUCT_PACKAGES += \
     libstagefright_soft_ac4dec \
     libstagefright_soft_ddpdec \
     libstagefrightdolby \
-    libswvdec \
     libsysmon_cdsp_skel \
     libvppclient \
     libvpphcp \
@@ -421,23 +420,15 @@ PRODUCT_PACKAGES += \
     sound_trigger.primary.msmnile \
     vendor.qti.hardware.audiohalext@1.0-impl \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
-    libAlacSwDec \
-    libApeSwDec \
-    libFlacSwDec \
-    libMpeg4SwEncoder \
     libOmxAacDec \
     libOmxAlacDec \
-    libOmxAlacDecSw \
     libOmxAmrDec \
     libOmxAmrwbplusDec \
     libOmxApeDec \
-    libOmxApeDecSw \
     libOmxDsdDec \
     libOmxEvrcDec \
     libOmxG711Dec \
     libOmxQcelp13Dec \
-    libOmxSwVdec \
-    libOmxSwVencMpeg4 \
     libOmxVideoDSMode \
     libOmxVpp \
     libOmxWmaDec \
@@ -782,6 +773,7 @@ PRODUCT_PACKAGES += \
     libssc_default_listener \
     libssd \
     libswregistrationalgo \
+    libswvdec \
     libsymphony-cpu \
     libsynergy_loc_api \
     libsystem_health_mon \
