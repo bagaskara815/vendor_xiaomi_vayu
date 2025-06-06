@@ -7132,23 +7132,6 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-	name: "libswvdec",
-	owner: "xiaomi",
-	strip: {
-		none: true,
-	},
-	target: {
-		: {
-			srcs: ["proprietary/vendor/lib64/libswvdec.so"],
-			shared_libs: [ ],
-		},
-	},
-	compile_multilib: "64",
-	prefer: true,
-	soc_specific: true,
-}
-
-cc_prebuilt_library_shared {
 	name: "libsymphony-cpu",
 	owner: "xiaomi",
 	strip: {

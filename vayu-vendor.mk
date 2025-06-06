@@ -760,7 +760,6 @@ PRODUCT_PACKAGES += \
     libssc_default_listener \
     libssd \
     libswregistrationalgo \
-    libswvdec \
     libsymphony-cpu \
     libsynergy_loc_api \
     libsystem_health_mon \
