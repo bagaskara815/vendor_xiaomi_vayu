@@ -369,12 +369,8 @@ PRODUCT_PACKAGES += \
     libq3dtools_esx \
     vendor.xiaomi.hardware.touchfeature@1.0-impl \
     vulkan.adreno \
-    libAlacSwDec \
-    libApeSwDec \
     libC2D2 \
     libCB \
-    libFlacSwDec \
-    libMpeg4SwEncoder \
     libOpenCL \
     libadreno_utils \
     libadsp_default_listener \
@@ -425,6 +421,26 @@ PRODUCT_PACKAGES += \
     sound_trigger.primary.msmnile \
     vendor.qti.hardware.audiohalext@1.0-impl \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
+    libAlacSwDec \
+    libApeSwDec \
+    libFlacSwDec \
+    libMpeg4SwEncoder \
+    libOmxAacDec \
+    libOmxAlacDec \
+    libOmxAlacDecSw \
+    libOmxAmrDec \
+    libOmxAmrwbplusDec \
+    libOmxApeDec \
+    libOmxApeDecSw \
+    libOmxDsdDec \
+    libOmxEvrcDec \
+    libOmxG711Dec \
+    libOmxQcelp13Dec \
+    libOmxSwVdec \
+    libOmxSwVencMpeg4 \
+    libOmxVideoDSMode \
+    libOmxVpp \
+    libOmxWmaDec \
     liba2dpoffload \
     libacdb-fts \
     libacdbloader \
